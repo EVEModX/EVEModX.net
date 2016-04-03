@@ -1,0 +1,13 @@
+*inj-go
+*obj
+*log
+*tlog
+*exp
+*lib
+*pdb
+*exe.config
+*vshost.exe
+*vshost.exe.manifest
+*TempPE
+*FileListAbsolute
+**/obj

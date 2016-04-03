@@ -1,0 +1,11 @@
+﻿生成启动时间为 2016/4/1 21:26:29。
+     1>项目“H:\VS2012\vb.net\EveModx.net\injModule\injModule.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\VS2012\vb.net\EveModx.net\Debug\injModule.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"Source.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\VS2012\vb.net\EveModx.net\Debug\injModule.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\VS2012\vb.net\EveModx.net\Debug\injModule.lib" /MACHINE:X86 /DLL Debug\inject_python.obj
+            正在创建库 H:\VS2012\vb.net\EveModx.net\Debug\injModule.lib 和对象 H:\VS2012\vb.net\EveModx.net\Debug\injModule.exp
+         injModule.vcxproj -> H:\VS2012\vb.net\EveModx.net\Debug\injModule.dll
+     1>已完成生成项目“H:\VS2012\vb.net\EveModx.net\injModule\injModule.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.27
